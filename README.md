@@ -1,2 +1,2 @@
-# my-first-repo
-test for school
+## my-first-repo
+# test for school
