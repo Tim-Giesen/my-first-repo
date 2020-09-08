@@ -1,3 +1,3 @@
 ## my-first-repo
 test for school
-!discord profile pic(C:\Users\tim_g\Desktop\GITHUB\repo\img)
+!Discord profile pic(img/Screenshot_1.png)
